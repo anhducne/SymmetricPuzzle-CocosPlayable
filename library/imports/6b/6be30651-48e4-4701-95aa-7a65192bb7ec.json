@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gun_DEOD",
+    "texture": "1b538af7-f047-4f02-b83b-c91544514d5f",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      497,
+      204
+    ],
+    "offset": [
+      -3.5,
+      22
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

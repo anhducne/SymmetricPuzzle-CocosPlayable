@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RuvRemake_idle1",
+    "texture": "de10470c-43fd-45e5-88e3-44194b327f23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      363
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      363
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DuoiXe",
+    "texture": "4f7b97e2-edee-40d3-8a80-eee0d70a88f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      609,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      609,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

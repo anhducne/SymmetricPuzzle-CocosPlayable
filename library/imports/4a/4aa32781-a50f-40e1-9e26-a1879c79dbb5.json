@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Line_3.7_output.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\r\nLine_3.7_output.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nline\r\n  rotate: false\r\n  xy: 514, 964\r\n  size: 455, 3\r\n  orig: 455, 3\r\n  offset: 0, 0\r\n  index: -1\r\nshadow1\r\n  rotate: false\r\n  xy: 2, 848\r\n  size: 488, 37\r\n  orig: 488, 37\r\n  offset: 0, 0\r\n  index: -1\r\nshadow2\r\n  rotate: false\r\n  xy: 2, 887\r\n  size: 510, 80\r\n  orig: 510, 80\r\n  offset: 0, 0\r\n  index: -1\r\n"
+}

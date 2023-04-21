@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "746e87ae-edc4-402f-8f61-1a9a4045607c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 877,
+  "height": 192,
+  "platformSettings": {},
+  "subMetas": {
+    "FedokaOne": {
+      "ver": "1.0.4",
+      "uuid": "79bb6812-42a7-4869-8c6b-30ca5cfac0d1",
+      "rawTextureUuid": "746e87ae-edc4-402f-8f61-1a9a4045607c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -9,
+      "trimX": 201,
+      "trimY": 71,
+      "width": 475,
+      "height": 68,
+      "rawWidth": 877,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Effect_Blue.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1_00": {
+      "__uuid__": "e88b316f-454e-4976-b3bb-86d68823dd07"
+    },
+    "1_01": {
+      "__uuid__": "ab8ce647-19c1-4754-8d0f-458dbd7e3b00"
+    },
+    "1_02": {
+      "__uuid__": "18c2e0b2-7d8b-49bd-b651-08d487bdfe8c"
+    },
+    "1_03": {
+      "__uuid__": "aaa190ca-a1eb-4eab-9498-f2bb479dcf81"
+    },
+    "1_04": {
+      "__uuid__": "a328bde3-f829-4b30-8dca-8ccf6a196889"
+    },
+    "1_05": {
+      "__uuid__": "33edd761-8a49-4e13-842e-ba73f7ea073b"
+    },
+    "1_06": {
+      "__uuid__": "28497982-0f57-43ff-8213-f89c00df409d"
+    },
+    "1_07": {
+      "__uuid__": "cfb031e6-7dbb-4aac-af6d-22d3a8c1d87d"
+    },
+    "1_08": {
+      "__uuid__": "6a1c519b-34e8-4c7a-a926-4c8bded50da9"
+    },
+    "1_09": {
+      "__uuid__": "2eabb453-bfb2-4d5c-a2ac-11a7d7fc49b2"
+    },
+    "1_10": {
+      "__uuid__": "4cc38d70-1d31-4529-af90-fbeb37fcb48b"
+    },
+    "1_11": {
+      "__uuid__": "0d8f8e7e-c962-4f0a-9fd2-ece1602876d9"
+    }
+  }
+}

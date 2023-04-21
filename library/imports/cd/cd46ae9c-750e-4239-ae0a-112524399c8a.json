@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SGReal_idle2",
+    "texture": "46d823ff-48fb-401c-8839-7cf7d0e74a33",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      389
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      389
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

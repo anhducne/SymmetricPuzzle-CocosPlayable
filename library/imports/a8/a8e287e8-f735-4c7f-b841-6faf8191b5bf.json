@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biNgo_cheo",
+    "texture": "21553964-3128-40eb-a9c3-8b704320eea3",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      158,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

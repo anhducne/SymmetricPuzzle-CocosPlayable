@@ -1,0 +1,48 @@
+
+Gun_3.7_output.png
+size: 620,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx1
+  rotate: true
+  xy: 529, 88
+  size: 90, 78
+  orig: 92, 82
+  offset: 2, 3
+  index: -1
+fx2
+  rotate: false
+  xy: 434, 2
+  size: 88, 82
+  orig: 92, 82
+  offset: 4, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 434, 86
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+fx4
+  rotate: true
+  xy: 524, 17
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 223, 36
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 3
+  size: 219, 175
+  orig: 219, 176
+  offset: 0, 1
+  index: -1

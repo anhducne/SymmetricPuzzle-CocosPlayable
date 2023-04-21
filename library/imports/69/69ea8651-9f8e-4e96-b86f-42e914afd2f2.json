@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RuvRemake_right3",
+    "texture": "41ccb437-f907-4515-a550-f5d87202caeb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      292,
+      363
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      292,
+      363
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "justDep",
+    "texture": "e493695b-2544-4c12-8043-bd456f42e6e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      547,
+      895
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      547,
+      895
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

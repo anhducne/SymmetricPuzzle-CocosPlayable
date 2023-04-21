@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Scar_V1_X",
+    "texture": "17ed1e5a-95ac-4a90-8620-b068a60efa4d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      364,
+      364
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      366,
+      366
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

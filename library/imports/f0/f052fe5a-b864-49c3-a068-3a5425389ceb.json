@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "inferno-mickey_21_0002_inferno-mickey_26",
+    "texture": "50be4938-3712-424c-afa9-9d967266f9bc",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      365,
+      281
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      370,
+      281
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

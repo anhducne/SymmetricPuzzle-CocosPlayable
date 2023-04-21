@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rotate",
+    "texture": "a1abdc50-918d-4227-8de1-d2ecd8f4a513",
+    "atlas": "",
+    "rect": [
+      32,
+      71,
+      813,
+      68
+    ],
+    "offset": [
+      0,
+      -9
+    ],
+    "originalSize": [
+      877,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

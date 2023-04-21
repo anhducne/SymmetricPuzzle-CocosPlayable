@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SWIPE TO SHOOT",
+    "texture": "83c27d47-92bf-4cac-af73-77b23f49d8f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      545,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      545,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

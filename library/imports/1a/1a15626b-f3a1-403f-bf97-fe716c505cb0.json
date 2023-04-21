@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Luigi_IHY_Background_Assets_Floortiny",
+    "texture": "a01721bc-f6fb-49e7-bc1d-46ff204cf2dd",
+    "atlas": "",
+    "rect": [
+      0,
+      30,
+      700,
+      227
+    ],
+    "offset": [
+      0,
+      8
+    ],
+    "originalSize": [
+      700,
+      303
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

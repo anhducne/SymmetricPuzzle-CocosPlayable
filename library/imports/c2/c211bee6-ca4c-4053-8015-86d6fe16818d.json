@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rounded Rectangle 1",
+    "texture": "5eb0162a-96d4-42cc-8652-236990712aa9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      236,
+      254
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      254
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

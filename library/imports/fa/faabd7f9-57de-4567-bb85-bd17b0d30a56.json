@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wp2100716",
+    "texture": "877354cc-ff44-470a-93df-2e3265d7aacd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      437
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      437
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

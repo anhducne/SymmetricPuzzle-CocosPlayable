@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_char_boy",
+    "texture": "11476e1e-a437-498a-97e7-49f6a62ffc98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

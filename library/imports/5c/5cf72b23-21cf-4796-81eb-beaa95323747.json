@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Luigi_IHY_Background_Assets_DrownedMario_16",
+    "texture": "862013f6-3a04-4b1e-9ef2-8fc9df046605",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      294,
+      293
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      294,
+      293
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

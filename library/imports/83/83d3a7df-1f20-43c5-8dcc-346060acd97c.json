@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Daddy",
+    "texture": "681218a5-11f6-4828-9a72-d4216eda5c0e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1439,
+      274
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      1444,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LightLung",
+    "texture": "51e93254-8a73-4296-9570-033700f534cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      501
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      501
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Gun_M4A4A.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nGun_M4A4A.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfx1\n  rotate: false\n  xy: 59, 66\n  size: 50, 42\n  orig: 53, 47\n  offset: 3, 4\n  index: -1\nfx2\n  rotate: false\n  xy: 4, 4\n  size: 50, 47\n  orig: 53, 47\n  offset: 3, 0\n  index: -1\nfx3\n  rotate: false\n  xy: 4, 55\n  size: 51, 53\n  orig: 53, 53\n  offset: 2, 0\n  index: -1\nfx4\n  rotate: false\n  xy: 469, 383\n  size: 39, 54\n  orig: 39, 54\n  offset: 0, 0\n  index: -1\ngun\n  rotate: false\n  xy: 4, 112\n  size: 304, 325\n  orig: 304, 325\n  offset: 0, 0\n  index: -1\nhand\n  rotate: false\n  xy: 312, 62\n  size: 153, 375\n  orig: 153, 375\n  offset: 0, 0\n  index: -1\n"
+}

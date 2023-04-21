@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HURTNOTE2_assets_06",
+    "texture": "b3403575-7857-418a-8b73-bc34ebf4d0f1",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      165,
+      167
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      172,
+      178
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

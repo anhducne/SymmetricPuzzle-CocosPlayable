@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ROUND 1White",
+    "texture": "552887f4-0a62-40d6-9158-3464623c7b3a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      203,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      203,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

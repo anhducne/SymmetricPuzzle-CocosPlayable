@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sum7",
+    "texture": "c9b7807d-7298-47c2-a06d-8dbe06295898",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      284
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      284
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

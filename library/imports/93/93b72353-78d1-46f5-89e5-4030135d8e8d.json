@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Gun_DEOD.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nGun_DEOD.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfx1\n  rotate: false\n  xy: 426, 67\n  size: 75, 66\n  orig: 80, 72\n  offset: 5, 5\n  index: -1\nfx2\n  rotate: false\n  xy: 426, 137\n  size: 75, 71\n  orig: 81, 72\n  offset: 5, 0\n  index: -1\nfx3\n  rotate: true\n  xy: 344, 132\n  size: 76, 78\n  orig: 81, 80\n  offset: 4, 1\n  index: -1\nfx4\n  rotate: false\n  xy: 344, 45\n  size: 59, 83\n  orig: 59, 83\n  offset: 0, 0\n  index: -1\ngun\n  rotate: false\n  xy: 4, 4\n  size: 176, 204\n  orig: 176, 204\n  offset: 0, 0\n  index: -1\nhand\n  rotate: true\n  xy: 184, 16\n  size: 192, 156\n  orig: 192, 156\n  offset: 0, 0\n  index: -1\n"
+}

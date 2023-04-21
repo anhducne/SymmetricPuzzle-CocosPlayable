@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BarRed",
+    "texture": "ebbd070e-2ba6-46a7-bb39-4b068417384f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      353,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      353,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

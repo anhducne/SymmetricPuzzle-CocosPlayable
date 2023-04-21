@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bingo3",
+    "texture": "41b918bb-9614-4bbb-8a4f-85038d73f974",
+    "atlas": "",
+    "rect": [
+      11,
+      10,
+      178,
+      187
+    ],
+    "offset": [
+      -3,
+      4.5
+    ],
+    "originalSize": [
+      206,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

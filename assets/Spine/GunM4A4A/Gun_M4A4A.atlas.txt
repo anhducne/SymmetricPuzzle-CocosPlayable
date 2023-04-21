@@ -1,0 +1,48 @@
+
+Gun_M4A4A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx1
+  rotate: false
+  xy: 59, 66
+  size: 50, 42
+  orig: 53, 47
+  offset: 3, 4
+  index: -1
+fx2
+  rotate: false
+  xy: 4, 4
+  size: 50, 47
+  orig: 53, 47
+  offset: 3, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 4, 55
+  size: 51, 53
+  orig: 53, 53
+  offset: 2, 0
+  index: -1
+fx4
+  rotate: false
+  xy: 469, 383
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 4, 112
+  size: 304, 325
+  orig: 304, 325
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 312, 62
+  size: 153, 375
+  orig: 153, 375
+  offset: 0, 0
+  index: -1

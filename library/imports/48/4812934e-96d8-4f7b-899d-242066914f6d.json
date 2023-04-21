@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bibib_58",
+    "texture": "2f4178b9-e6c4-492f-bc10-38fdf2260fdc",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      267,
+      228
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      267,
+      231
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

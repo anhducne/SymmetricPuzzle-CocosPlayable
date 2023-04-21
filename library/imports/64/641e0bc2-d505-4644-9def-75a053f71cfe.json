@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Miss (1)",
+    "texture": "edf2d554-ab73-4f35-a1be-09c055dc2af1",
+    "atlas": "",
+    "rect": [
+      0,
+      13,
+      524,
+      317
+    ],
+    "offset": [
+      0,
+      -6.5
+    ],
+    "originalSize": [
+      524,
+      330
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

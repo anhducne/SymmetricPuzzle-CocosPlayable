@@ -1,0 +1,47 @@
+{
+  "title": "FNFHyperCat",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "528ab79a-8ceb-4188-8d02-13fce5521143",
+  "excludeScenes": [
+    "378e1388-7b07-4451-968e-0972dba5cee8",
+    "cbabe57f-0c94-4bf5-9e21-b00ac83c5797",
+    "0814443e-8002-4402-bde8-72a56a8fd617"
+  ],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "6195f1d7-b80c-49",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}

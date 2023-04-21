@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6247a004-6632-4887-8f55-f91815908d49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Gun_AK47NR": {
+      "ver": "1.0.4",
+      "uuid": "60c70687-f099-465b-8cb5-0f50220401fa",
+      "rawTextureUuid": "6247a004-6632-4887-8f55-f91815908d49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -43.5,
+      "offsetY": 32,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 417,
+      "height": 440,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

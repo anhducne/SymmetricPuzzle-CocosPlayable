@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-mommy3_02 copy",
+    "texture": "1f795f54-d84d-430e-9ea9-f80b697256cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

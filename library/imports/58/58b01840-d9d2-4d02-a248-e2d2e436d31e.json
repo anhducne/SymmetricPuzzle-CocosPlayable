@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Race_Mario_BG1_10",
+    "texture": "40cf7b65-fab1-4fae-b6ca-6954df363e24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1444,
+      788
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1444,
+      788
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

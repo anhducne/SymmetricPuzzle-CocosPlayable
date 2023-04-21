@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a01721bc-f6fb-49e7-bc1d-46ff204cf2dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 303,
+  "platformSettings": {},
+  "subMetas": {
+    "Luigi_IHY_Background_Assets_Floortiny": {
+      "ver": "1.0.4",
+      "uuid": "1a15626b-f3a1-403f-bf97-fe716c505cb0",
+      "rawTextureUuid": "a01721bc-f6fb-49e7-bc1d-46ff204cf2dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 8,
+      "trimX": 0,
+      "trimY": 30,
+      "width": 700,
+      "height": 227,
+      "rawWidth": 700,
+      "rawHeight": 303,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

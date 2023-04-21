@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mommy_black_assets_15",
+    "texture": "9c69e803-9f3c-486e-a6a8-1a97af4d17a0",
+    "atlas": "",
+    "rect": [
+      31,
+      113,
+      243,
+      146
+    ],
+    "offset": [
+      12.5,
+      -56.5
+    ],
+    "originalSize": [
+      280,
+      259
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

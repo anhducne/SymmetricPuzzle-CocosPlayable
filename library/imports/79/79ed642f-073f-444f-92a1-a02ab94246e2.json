@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-charlie_02",
+    "texture": "498706aa-98ca-4da9-9143-b6a1f55ee06a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

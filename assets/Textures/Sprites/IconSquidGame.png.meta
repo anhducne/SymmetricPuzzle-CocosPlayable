@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5698bb26-6a0f-40a1-9332-6d81704adccf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 63,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "IconSquidGame": {
+      "ver": "1.0.4",
+      "uuid": "16814f3d-4e9e-4e05-8c30-ab902ca57141",
+      "rawTextureUuid": "5698bb26-6a0f-40a1-9332-6d81704adccf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 64,
+      "rawWidth": 63,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

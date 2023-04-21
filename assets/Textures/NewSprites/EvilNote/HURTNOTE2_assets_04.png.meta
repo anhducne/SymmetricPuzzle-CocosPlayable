@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c476055e-2421-451d-89d6-ad76c5c5a607",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 176,
+  "height": 173,
+  "platformSettings": {},
+  "subMetas": {
+    "HURTNOTE2_assets_04": {
+      "ver": "1.0.4",
+      "uuid": "d5edb382-5419-4b7c-99ae-dd40d48dd28e",
+      "rawTextureUuid": "c476055e-2421-451d-89d6-ad76c5c5a607",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 168,
+      "height": 164,
+      "rawWidth": 176,
+      "rawHeight": 173,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

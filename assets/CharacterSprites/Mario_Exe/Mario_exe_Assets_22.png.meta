@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e787c3b4-eb3e-4f11-a6f3-895f65229eac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 181,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "Mario_exe_Assets_22": {
+      "ver": "1.0.4",
+      "uuid": "8a2301ee-b51d-4d80-9d41-bc776f617814",
+      "rawTextureUuid": "e787c3b4-eb3e-4f11-a6f3-895f65229eac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -12,
+      "trimX": 0,
+      "trimY": 24,
+      "width": 181,
+      "height": 216,
+      "rawWidth": 181,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

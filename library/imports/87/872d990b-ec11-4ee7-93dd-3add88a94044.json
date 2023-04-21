@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textMiss",
+    "texture": "4109f1dc-1380-48d6-ba5d-2b3ac8a6b423",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

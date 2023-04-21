@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Stag1 (1)",
+    "texture": "104435ee-5b79-4755-b9b0-9f52b2e89b01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      293,
+      470
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      293,
+      470
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

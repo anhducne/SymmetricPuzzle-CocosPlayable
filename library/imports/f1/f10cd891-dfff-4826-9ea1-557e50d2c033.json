@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sick",
+    "texture": "7cf68fe5-cae7-4552-a4d4-004aa33dfced",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      150,
+      61
+    ],
+    "offset": [
+      -7.5,
+      0
+    ],
+    "originalSize": [
+      173,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

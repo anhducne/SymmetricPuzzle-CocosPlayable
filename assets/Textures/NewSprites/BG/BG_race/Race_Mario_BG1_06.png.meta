@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9a0bb471-5210-4992-9a22-4f6ee2224ed5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1444,
+  "height": 807,
+  "platformSettings": {},
+  "subMetas": {
+    "Race_Mario_BG1_06": {
+      "ver": "1.0.4",
+      "uuid": "fc091bd2-740b-4863-8cb1-3112f0169504",
+      "rawTextureUuid": "9a0bb471-5210-4992-9a22-4f6ee2224ed5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1444,
+      "height": 807,
+      "rawWidth": 1444,
+      "rawHeight": 807,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

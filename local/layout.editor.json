@@ -1,0 +1,113 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 2252,
+      "y": 6,
+      "width": 1562,
+      "height": 885,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 528.984375,
+                "type": "panel",
+                "width": 821
+              },
+              {
+                "active": 1,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ],
+                "height": 266,
+                "type": "panel",
+                "width": 821
+              }
+            ],
+            "height": 798,
+            "type": "dock-v",
+            "width": 821
+          },
+          {
+            "active": 0,
+            "children": [
+              "assets"
+            ],
+            "height": 798,
+            "type": "panel",
+            "width": 208
+          },
+          {
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ],
+            "height": 798,
+            "type": "panel",
+            "width": 204
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ],
+            "height": 798,
+            "type": "panel",
+            "width": 304
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "scene",
+        "console",
+        "timeline",
+        "game-window",
+        "assets",
+        "hierarchy",
+        "inspector",
+        "cocos-services"
+      ]
+    },
+    "worker": {}
+  },
+  "panels": {
+    "node-library": {
+      "x": 802,
+      "y": 246,
+      "width": 316,
+      "height": 519
+    },
+    "builder": {
+      "x": 3048,
+      "y": 310,
+      "width": 516,
+      "height": 717
+    },
+    "preferences": {
+      "x": 340,
+      "y": 170,
+      "width": 600,
+      "height": 565
+    }
+  },
+  "panelLabelWidth.inspector": null,
+  "panelLabelWidth": {
+    "inspector": null,
+    "builder": null,
+    "preferences": null
+  },
+  "panelLabelWidth.builder": null,
+  "panelLabelWidth.preferences": null
+}

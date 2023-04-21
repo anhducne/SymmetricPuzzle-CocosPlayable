@@ -1,0 +1,223 @@
+
+Girl_3.7_output.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 332, 336
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 218, 223
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 75, 2
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 130, 150
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+eyes_02
+  rotate: false
+  xy: 130, 130
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+eyes_03
+  rotate: true
+  xy: 269, 281
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+eyes_04
+  rotate: true
+  xy: 122, 118
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+eyes_05
+  rotate: false
+  xy: 130, 116
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+eyes_06
+  rotate: false
+  xy: 122, 99
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 140, 222
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+flowers
+  rotate: false
+  xy: 183, 271
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 140, 271
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 183
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 75, 68
+  size: 113, 45
+  orig: 113, 45
+  offset: 0, 0
+  index: -1
+hand_down
+  rotate: false
+  xy: 2, 4
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+hand_happy
+  rotate: true
+  xy: 332, 420
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 429, 426
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 429, 394
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+hand_up
+  rotate: false
+  xy: 140, 176
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 429, 458
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 332, 382
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 185, 150
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 122, 85
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+mouth_03
+  rotate: false
+  xy: 185, 161
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+speaker_01
+  rotate: true
+  xy: 185, 343
+  size: 93, 104
+  orig: 93, 104
+  offset: 0, 0
+  index: -1
+speaker_02
+  rotate: false
+  xy: 291, 391
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+speaker_03
+  rotate: false
+  xy: 291, 345
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+speaker_04
+  rotate: false
+  xy: 2, 355
+  size: 181, 155
+  orig: 181, 155
+  offset: 0, 0
+  index: -1
+speaker_05
+  rotate: false
+  xy: 185, 438
+  size: 145, 72
+  orig: 145, 72
+  offset: 0, 0
+  index: -1
+speaker_06
+  rotate: true
+  xy: 2, 37
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+tears
+  rotate: false
+  xy: 393, 393
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1

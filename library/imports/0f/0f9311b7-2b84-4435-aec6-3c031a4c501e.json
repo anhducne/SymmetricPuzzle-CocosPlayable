@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PibbyPlayer",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ae78730c-fb1f-4501-9f0d-1ac6d10df7bd"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "04b71719-be67-4590-87b3-94f8b2c95000"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4ae44d29-c944-4bd2-942c-5bf1fca8b19b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "16e3f5b7-0cf3-4fbe-b06a-86b5ab09b7ca"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ae78730c-fb1f-4501-9f0d-1ac6d10df7bd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

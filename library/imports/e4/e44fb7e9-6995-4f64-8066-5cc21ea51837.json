@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "E__RK_Hyper-Casual_fnf_in-game_0011_Layer-4",
+    "texture": "cccb2ba3-fb3a-4138-90b4-48121b973de3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      142,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DotLine-removebg-preview",
+    "texture": "3c9e0324-11b0-4df5-9b97-a4272ef9b7e1",
+    "atlas": "",
+    "rect": [
+      15,
+      126,
+      769,
+      15
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      800,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

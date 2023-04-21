@@ -1,0 +1,135 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bad3bad1-faf4-4c5f-93c8-386f2c43dc34"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "99ecb5ac-0b56-4597-9d1d-bdb16f1d5faf"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "53c90cbe-7e95-4e49-ae8b-4663e5245d8f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "03517c4f-6f0d-401f-b833-8d2decff350a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e70c283a-943a-4816-a5b3-4c4130d68311"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "558bab2a-c7ed-40f7-b70e-9d48bbd421e9"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "df1b1550-af20-42df-9b43-27f5184517c8"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "4f500526-69f1-4ec3-be5f-6dbe8d75b88d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "bad3bad1-faf4-4c5f-93c8-386f2c43dc34"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "Left": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -216.143,
+                -26,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -216.143,
+                -46.377,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -216.143,
+                -26,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Right": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                151.462,
+                -4.397,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                151.462,
+                -20.336,
+                0
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                151.462,
+                -4.397,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Idle (3)",
+    "texture": "d309e5d2-3a03-4865-922a-1f8946331590",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      207
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

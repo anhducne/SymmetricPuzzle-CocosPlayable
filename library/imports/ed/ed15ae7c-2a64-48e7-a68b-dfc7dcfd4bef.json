@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_garcelloPNG",
+    "texture": "7d6b59af-613d-44d0-bdbe-0596a31d88b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      435,
+      940
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      435,
+      940
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

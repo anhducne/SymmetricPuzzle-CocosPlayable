@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "50be4938-3712-424c-afa9-9d967266f9bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 281,
+  "platformSettings": {},
+  "subMetas": {
+    "inferno-mickey_21_0002_inferno-mickey_26": {
+      "ver": "1.0.4",
+      "uuid": "f052fe5a-b864-49c3-a068-3a5425389ceb",
+      "rawTextureUuid": "50be4938-3712-424c-afa9-9d967266f9bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 365,
+      "height": 281,
+      "rawWidth": 370,
+      "rawHeight": 281,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "93d1b8de-7b57-4fcc-a26e-12dba87dc6fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 294,
+  "height": 294,
+  "platformSettings": {},
+  "subMetas": {
+    "Luigi_IHY_Background_Assets_DrownedMario_15": {
+      "ver": "1.0.4",
+      "uuid": "5ccd6688-e6db-462b-ae81-377a30ed63f3",
+      "rawTextureUuid": "93d1b8de-7b57-4fcc-a26e-12dba87dc6fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 294,
+      "height": 294,
+      "rawWidth": 294,
+      "rawHeight": 294,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

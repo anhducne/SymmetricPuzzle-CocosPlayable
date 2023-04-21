@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "haloween (2)",
+    "texture": "6577a051-0795-4734-8daf-7c12e8a805b4",
+    "atlas": "",
+    "rect": [
+      0,
+      241,
+      657,
+      139
+    ],
+    "offset": [
+      0,
+      -120.5
+    ],
+    "originalSize": [
+      657,
+      380
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

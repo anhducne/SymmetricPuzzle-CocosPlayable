@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cccb2ba3-fb3a-4138-90b4-48121b973de3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 146,
+  "platformSettings": {},
+  "subMetas": {
+    "E__RK_Hyper-Casual_fnf_in-game_0011_Layer-4": {
+      "ver": "1.0.4",
+      "uuid": "e44fb7e9-6995-4f64-8066-5cc21ea51837",
+      "rawTextureUuid": "cccb2ba3-fb3a-4138-90b4-48121b973de3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 146,
+      "rawWidth": 142,
+      "rawHeight": 146,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

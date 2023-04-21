@@ -1,0 +1,76 @@
+{
+  "group-list": [
+    "default",
+    "ObjectMove",
+    "ObjectTarget"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "DragonBones",
+    "EditBox",
+    "Graphics",
+    "Layout",
+    "Label Effect",
+    "Mask",
+    "Mesh",
+    "MotionStreak",
+    "NodePool",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ProgressBar",
+    "RichText",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "last-module-event-record-time": 1681990234217,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "current",
+  "migrate-history": []
+}

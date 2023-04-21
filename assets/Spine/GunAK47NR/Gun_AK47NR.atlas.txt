@@ -1,0 +1,48 @@
+
+Gun_AK47NR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx1
+  rotate: false
+  xy: 126, 12
+  size: 56, 49
+  orig: 60, 54
+  offset: 4, 4
+  index: -1
+fx2
+  rotate: false
+  xy: 67, 8
+  size: 55, 53
+  orig: 60, 53
+  offset: 4, 0
+  index: -1
+fx3
+  rotate: true
+  xy: 4, 4
+  size: 57, 59
+  orig: 60, 60
+  offset: 3, 0
+  index: -1
+fx4
+  rotate: true
+  xy: 186, 17
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 4, 65
+  size: 279, 379
+  orig: 279, 379
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 287, 246
+  size: 134, 198
+  orig: 134, 198
+  offset: 0, 0
+  index: -1

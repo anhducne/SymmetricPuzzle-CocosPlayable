@@ -1,0 +1,48 @@
+
+Gun_DEOD.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx1
+  rotate: false
+  xy: 426, 67
+  size: 75, 66
+  orig: 80, 72
+  offset: 5, 5
+  index: -1
+fx2
+  rotate: false
+  xy: 426, 137
+  size: 75, 71
+  orig: 81, 72
+  offset: 5, 0
+  index: -1
+fx3
+  rotate: true
+  xy: 344, 132
+  size: 76, 78
+  orig: 81, 80
+  offset: 4, 1
+  index: -1
+fx4
+  rotate: false
+  xy: 344, 45
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 4, 4
+  size: 176, 204
+  orig: 176, 204
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 184, 16
+  size: 192, 156
+  orig: 192, 156
+  offset: 0, 0
+  index: -1

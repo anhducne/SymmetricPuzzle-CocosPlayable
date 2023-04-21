@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_character_zavodia_2",
+    "texture": "aea9b1b5-3271-4796-adaf-a40727f281aa",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      67,
+      70
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

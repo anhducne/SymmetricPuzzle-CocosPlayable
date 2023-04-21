@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SWIPE TO SING",
+    "texture": "2bbea6cf-8d77-462b-9fe7-ea88b069c3df",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      352,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      352,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "26484915-7a1a-4a39-b2f3-4fa1c9155748",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Gun_M4A4A": {
+      "ver": "1.0.4",
+      "uuid": "bceb4ad2-4a16-4ce4-a6af-1c68d36ce9b7",
+      "rawTextureUuid": "26484915-7a1a-4a39-b2f3-4fa1c9155748",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 35.5,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 504,
+      "height": 433,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

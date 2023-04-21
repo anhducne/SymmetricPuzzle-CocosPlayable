@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daulau",
+    "texture": "e585c26c-67e2-4ebb-9465-114d83ae8a8f",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      93,
+      92
+    ],
+    "offset": [
+      -2.5,
+      1.5
+    ],
+    "originalSize": [
+      98,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

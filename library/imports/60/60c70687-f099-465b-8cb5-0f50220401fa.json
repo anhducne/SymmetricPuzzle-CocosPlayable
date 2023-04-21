@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gun_AK47NR",
+    "texture": "6247a004-6632-4887-8f55-f91815908d49",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      417,
+      440
+    ],
+    "offset": [
+      -43.5,
+      32
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

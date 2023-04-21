@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huggy_09_0004_huggy_12",
+    "texture": "e203f04a-be54-4efb-b838-166bc29d8a95",
+    "atlas": "",
+    "rect": [
+      8,
+      0,
+      165,
+      353
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      182,
+      353
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

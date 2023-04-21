@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mario_exe_Assets_24",
+    "texture": "53e632c4-5708-4cf8-82a7-c2f1f6d03133",
+    "atlas": "",
+    "rect": [
+      0,
+      27,
+      199,
+      213
+    ],
+    "offset": [
+      0,
+      -13.5
+    ],
+    "originalSize": [
+      199,
+      240
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

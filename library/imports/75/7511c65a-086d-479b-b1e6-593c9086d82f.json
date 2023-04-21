@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3My",
+    "texture": "6e5122ff-01bd-4f22-9c26-4785c794b2f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      328
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      328
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

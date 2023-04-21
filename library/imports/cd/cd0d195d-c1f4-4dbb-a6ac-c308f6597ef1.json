@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GuideLine2",
+    "texture": "cfd8517e-497b-4dc7-91ba-596fb2871a42",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

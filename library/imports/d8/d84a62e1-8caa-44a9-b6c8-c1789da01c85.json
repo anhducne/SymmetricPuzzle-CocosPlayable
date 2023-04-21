@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stagecurtains",
+    "texture": "116d0f1c-3ff6-466a-91ab-a68dc3668816",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      323,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

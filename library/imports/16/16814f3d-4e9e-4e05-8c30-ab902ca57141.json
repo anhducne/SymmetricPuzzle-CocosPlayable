@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IconSquidGame",
+    "texture": "5698bb26-6a0f-40a1-9332-6d81704adccf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

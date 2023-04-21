@@ -1,0 +1,27 @@
+
+Line_3.7_output.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: false
+  xy: 514, 964
+  size: 455, 3
+  orig: 455, 3
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: false
+  xy: 2, 848
+  size: 488, 37
+  orig: 488, 37
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 887
+  size: 510, 80
+  orig: 510, 80
+  offset: 0, 0
+  index: -1

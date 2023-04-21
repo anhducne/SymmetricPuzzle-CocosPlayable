@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mario_Girlfriend_Beta_assets_v1_08",
+    "texture": "f57493df-0ae5-489a-af4b-8fcbdcafb473",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      357,
+      528
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      357,
+      528
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

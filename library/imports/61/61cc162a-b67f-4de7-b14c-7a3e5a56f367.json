@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Joker",
+    "texture": "9d29acfc-9a02-4ffc-96ee-37a280878942",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      392
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      392
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

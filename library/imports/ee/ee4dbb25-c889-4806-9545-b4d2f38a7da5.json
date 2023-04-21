@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Gun_3.7_output.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\r\nGun_3.7_output.png\r\nsize: 620,180\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nfx1\r\n  rotate: true\r\n  xy: 529, 88\r\n  size: 90, 78\r\n  orig: 92, 82\r\n  offset: 2, 3\r\n  index: -1\r\nfx2\r\n  rotate: false\r\n  xy: 434, 2\r\n  size: 88, 82\r\n  orig: 92, 82\r\n  offset: 4, 0\r\n  index: -1\r\nfx3\r\n  rotate: false\r\n  xy: 434, 86\r\n  size: 93, 92\r\n  orig: 93, 92\r\n  offset: 0, 0\r\n  index: -1\r\nfx4\r\n  rotate: true\r\n  xy: 524, 17\r\n  size: 67, 94\r\n  orig: 67, 94\r\n  offset: 0, 0\r\n  index: -1\r\ngun\r\n  rotate: true\r\n  xy: 223, 36\r\n  size: 142, 209\r\n  orig: 142, 209\r\n  offset: 0, 0\r\n  index: -1\r\nhand\r\n  rotate: false\r\n  xy: 2, 3\r\n  size: 219, 175\r\n  orig: 219, 176\r\n  offset: 0, 1\r\n  index: -1\r\n"
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Gun_AK47NR.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nGun_AK47NR.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfx1\n  rotate: false\n  xy: 126, 12\n  size: 56, 49\n  orig: 60, 54\n  offset: 4, 4\n  index: -1\nfx2\n  rotate: false\n  xy: 67, 8\n  size: 55, 53\n  orig: 60, 53\n  offset: 4, 0\n  index: -1\nfx3\n  rotate: true\n  xy: 4, 4\n  size: 57, 59\n  orig: 60, 60\n  offset: 3, 0\n  index: -1\nfx4\n  rotate: true\n  xy: 186, 17\n  size: 44, 61\n  orig: 44, 61\n  offset: 0, 0\n  index: -1\ngun\n  rotate: false\n  xy: 4, 65\n  size: 279, 379\n  orig: 279, 379\n  offset: 0, 0\n  index: -1\nhand\n  rotate: false\n  xy: 287, 246\n  size: 134, 198\n  orig: 134, 198\n  offset: 0, 0\n  index: -1\n"
+}

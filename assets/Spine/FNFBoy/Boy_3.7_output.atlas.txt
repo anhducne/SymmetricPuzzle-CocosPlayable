@@ -1,0 +1,125 @@
+
+Boy_3.7_output.png
+size: 884,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 501, 13
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 625, 80
+  size: 97, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+eyes_01
+  rotate: true
+  xy: 147, 2
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+eyes_02
+  rotate: false
+  xy: 625, 11
+  size: 84, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+eyes_03
+  rotate: true
+  xy: 814, 61
+  size: 87, 68
+  orig: 87, 69
+  offset: 0, 1
+  index: -1
+eyes_04
+  rotate: true
+  xy: 711, 2
+  size: 75, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+eyes_05
+  rotate: true
+  xy: 422, 2
+  size: 72, 77
+  orig: 72, 78
+  offset: 0, 1
+  index: -1
+eyes_06
+  rotate: true
+  xy: 283, 18
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+eyes_07
+  rotate: false
+  xy: 724, 79
+  size: 88, 69
+  orig: 88, 70
+  offset: 0, 1
+  index: -1
+hair_01
+  rotate: false
+  xy: 317, 52
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 583, 18
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 528, 70
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: true
+  xy: 203, 4
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 29
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 147, 70
+  size: 168, 78
+  orig: 168, 79
+  offset: 0, 1
+  index: -1
+line
+  rotate: true
+  xy: 793, 22
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+shoe
+  rotate: false
+  xy: 422, 76
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1

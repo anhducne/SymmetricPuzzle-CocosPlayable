@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FedokaOne",
+    "texture": "746e87ae-edc4-402f-8f61-1a9a4045607c",
+    "atlas": "",
+    "rect": [
+      201,
+      71,
+      475,
+      68
+    ],
+    "offset": [
+      0,
+      -9
+    ],
+    "originalSize": [
+      877,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7d6b59af-613d-44d0-bdbe-0596a31d88b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 435,
+  "height": 940,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_garcelloPNG": {
+      "ver": "1.0.4",
+      "uuid": "ed15ae7c-2a64-48e7-a68b-dfc7dcfd4bef",
+      "rawTextureUuid": "7d6b59af-613d-44d0-bdbe-0596a31d88b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 435,
+      "height": 940,
+      "rawWidth": 435,
+      "rawHeight": 940,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
