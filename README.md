@@ -1,2 +1,2 @@
 # Symmetric-Puzzle-PlayableAds
-Cocos
+My Cocos 2.3.6 gamePlayableAds 
